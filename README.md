@@ -7,6 +7,9 @@ You could be next....🫵
 
 That is...  
 
+## 我是谁？
+~~皮卡丘~~   
+I am student of HDU，and I am willing to share my experience and learn something here.Good to see you.  
 ## -------个人计划-------
 5.26-5.30 完成陀螺仪初步的滤波和四元数表示，微调云台PID  
 5.31-6.7 完成裸电机调试和初步底盘解算，完成路径规划器  
