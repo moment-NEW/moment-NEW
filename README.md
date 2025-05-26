@@ -13,7 +13,9 @@ That is...
 6.8-6.14 完成原地小陀螺和卡尔曼滤波，复习期末  
 6.14-6.21 期末考试  
 6.21-6.28 考完试后完成云台位姿和PID结合  
-6.28-7.5 研究老代码，整合新代码  
+6.28-7.5 研究老代码，整合新代码，让车能跑  
+后面7月：摩擦轮发射，理解超电还有能源管理，裁判系统  
+8月：高速小陀螺+正常移动（世界坐标系转换）
 <!--
 **moment-NEW/moment-NEW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
