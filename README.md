@@ -10,8 +10,13 @@ That is...
 ## 我是谁？
 ~~皮卡丘~~   
 I am a student of HDU，and I am willing to share my experience and learn something here.Good to see you.  
-## -------个人计划-------
-全部完蛋
+##    -------个人计划-------
+## -------Personal Plan-------
+
+1.Sentry代码优化维护
+2.高电流快插插头设计
+3.ROS2学习
+4.kalman学习
 <!--
 **moment-NEW/moment-NEW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
