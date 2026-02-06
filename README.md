@@ -50,8 +50,8 @@ struct Developer {
 $ ping moment-new.hdu.edu.cn
 # 正在等待信号反馈...
 ```
-- 📧 Email: [你的邮箱]
-- 💬 愿意交流关于 RM 算法、硬件选型或 Linux 的任何话题。
+- 📧 Email: 1838088566@qq.com
+- 💬 愿意交流关于 RM 算法、硬件选型或 Linux 的任何话题。/Willing to share or learning anything about linux,robomaster and embedded.
 
 ---
 
