@@ -17,8 +17,8 @@
 | **高电流快插设计** | 🔌 Prototyping | ![40%](https://geps.dev/progress/40) |
 | **ROS2 学习** | 📚 Learning | ![30%](https://geps.dev/progress/30) |
 | **Kalman 滤波** | 📐 Math Heavy | ![20%](https://geps.dev/progress/20) |
-| **Linux 马拉松** | 🏃 Running | ![50%](https://geps.dev/progress/50) |
-| **Debug Framework** | 👨‍💻 Refactoring | ![15%](https://geps.dev/progress/15) |
+| **Linux 马拉松** | 🏃 Running | ![5%](https://geps.dev/progress/5) |
+| **Debug Framework** | 👨‍💻 Refactoring | ![0%](https://geps.dev/progress/0) |
 
 ---
 
