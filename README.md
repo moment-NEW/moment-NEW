@@ -42,9 +42,7 @@ struct Developer {
 ---
 
 ### 📈 活跃度分析 (Activity)
-![moment-NEW's GitHub stats](https://github-readme-stats.vercel.app/api?username=moment-NEW&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moment-NEW&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff)
-
+[等待施工】  
 ---
 
 ### 🛰️ 建立连接 (Connect with me)
