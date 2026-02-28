@@ -1,3 +1,6 @@
+<!-- GitHub Stats Card from anuraghazra/github-readme-stats -->
+![moment-NEW's GitHub stats](https://github-readme-stats.vercel.app/api?username=moment-NEW&show_icons=true)
+
 # ⚡ System.initialize("moment-NEW")
 
 <p align="center">
