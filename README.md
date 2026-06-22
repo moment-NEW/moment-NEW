@@ -1,5 +1,5 @@
 <!-- GitHub Stats Card from anuraghazra/github-readme-stats -->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=moment-NEW&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=moment-NEW&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
 # ⚡ System.initialize("moment-NEW")
 
 <p align="center">
