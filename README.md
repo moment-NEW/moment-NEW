@@ -13,8 +13,9 @@
 ---
 ## 个人计划
 - 完成DM-MC02的RT-Thread BSP移植开发:第一阶段BSP已合并，WS2812与FDCAN开发中
-- 完成minipc库与tinyusb的集成
+- 完成minipc库与tinyusb的集成：初步移植，尚在架构阶段
 - 对现有baseframe的现代化，包括使用Kconfig，搭建CI/CD，搭建软件包拉取系统。:已完成Kconifg与拉取系统的搭建
 - 学习并引入Zephyr
 - 学习并引入MemFault
+- 尝试neovim
 
