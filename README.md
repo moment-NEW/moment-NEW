@@ -12,9 +12,9 @@
 > 恐惧出于未知，而他把我最害怕的东西，拆解得明明白白教给我。我甚至还没反应过来我就学会了，感性上还在害怕但却突然没有了害怕的理由。这种纯粹的强大让我困惑、费解，以至于感到另一种恐惧。——摘自Tsoding评论区
 ---
 ## 个人计划
-- 完成DM-MC02的RT-Thread BSP移植开发:WS2812基本完成，但DMA化需要SPI6的BDMA驱动支持，计划开发中；FDCAN开发中
+- 完成DM-MC02的RT-Thread BSP移植开发:WS2812与BDMA驱动联合测试中；FDCAN开发中
 - 完成minipc库与tinyusb的集成：初步移植，已经实现CDC回环，正在测试Vendor
-- 对现有baseframe的现代化，包括使用Kconfig，搭建CI/CD，搭建软件包拉取系统。:已完成Kconifg与拉取系统的搭建
+- 对现有baseframe的现代化，包括使用Kconfig，搭建CI/CD，搭建软件包拉取系统。:缺乏CICD经验，搁置
 - 学习并引入Zephyr
 - 学习并引入MemFault
 - 尝试neovim
