@@ -15,9 +15,9 @@
 ---
 ## 个人计划
 - 完成DM-MC02的RT-Thread BSP移植开发:WS2812与BDMA驱动联合测试中；FDCAN开发中
-- 完成minipc库与tinyusb的集成：初步移植，已经实现CDC回环，正在测试Vendor
+- ~~完成minipc库与tinyusb的集成：初步移植，已经实现CDC回环，正在测试Vendor~~没有意思，无限期搁置
 - 对现有baseframe的现代化，包括使用Kconfig，搭建CI/CD，搭建软件包拉取系统。:缺乏CICD经验，搁置
-- 学习并引入Zephyr
+- 学习并引入Zephyr：正在通过MGS-Watch-Reborn项目推进。
 - 学习并引入MemFault
-- 尝试neovim
+- 尝试Zig
 
