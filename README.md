@@ -7,7 +7,7 @@
 </p>
 
 
-- 📧 Email: 1838088566@qq.com
+- 📧 Email: cghdudu@qq.com
 - 💬 愿意交流关于 RM 算法、嵌入式或 Linux 的任何话题。/Willing to share or learning anything about linux,robomaster and embedded.
 > 恐惧出于未知，而他把我最害怕的东西，拆解得明明白白教给我。我甚至还没反应过来我就学会了，感性上还在害怕但却突然没有了害怕的理由。这种纯粹的强大让我困惑、费解，以至于感到另一种恐惧。——摘自Tsoding评论区
 
